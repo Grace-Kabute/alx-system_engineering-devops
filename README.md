@@ -1,1 +1,1 @@
-shell redirections and filters
+init files.variables and expansions
