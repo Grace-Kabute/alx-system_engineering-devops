@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Get listening sockets and corresponding PIDS
 
 netstat -l --program
