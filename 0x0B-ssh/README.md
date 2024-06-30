@@ -1,1 +1,1 @@
-connected to your server
+connect to your server
