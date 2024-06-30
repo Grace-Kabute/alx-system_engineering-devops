@@ -1,1 +1,1 @@
-Connect to my server.
+Connecting to my server
