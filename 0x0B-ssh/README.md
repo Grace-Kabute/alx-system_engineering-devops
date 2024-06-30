@@ -1,1 +1,1 @@
-ssh public key
+connected to your server
